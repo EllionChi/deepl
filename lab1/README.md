@@ -1,8 +1,8 @@
 # ЛР1. Реалізація та перевірка зворотного поширення похибки
 ## Запуск
 ```bash
-python lab1.py     
-python lab1.py --buggy                               
+uv run lab1.py
+uv run lab1.py --buggy                               
 ```
 
 ## Дані та налаштування
