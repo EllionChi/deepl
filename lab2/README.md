@@ -1,7 +1,6 @@
 # ЛР2. Поріг рішення під асиметричну ціну помилок
 
 ## Запуск
-Набір: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) (потрібен акаунт Kaggle); `creditcard.csv` у репозиторії немає.
 ```bash
 uv sync
 uv run python train.py --csv /шлях/до/creditcard.csv   # навчання → artifacts/
